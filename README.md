@@ -22,7 +22,6 @@
 </table>
 
 <h3>Things I code with</h3>
-<h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
