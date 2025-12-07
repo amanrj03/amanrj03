@@ -6,16 +6,14 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6000&pause=1000&color=2487F7&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
       </a>
       <p>
-        Hi there! I am a backend developer passionate about...<br>
-        <br>
-        🚀 Passionate about building real-world, scalable applications
-        📚 Always learning system design, backend scaling & AI integrations
-        🔍 Detail-oriented developer who loves clean and optimized code
-        🧠 Thinks in terms of architecture, performance & user experience
-        🛠️ Enjoys converting ideas into polished products
-        🌱 Currently working on VentureBoard & Electricity Feedback System
-        🤝 Believes in building in public and sharing knowledge
-        🎯 Driven, consistent, and focused on continuous improvement
+        🚀 Passionate about building real-world, scalable applications<br>
+        📚 Always learning system design, backend scaling & AI integrations<br>
+        🔍 Detail-oriented developer who loves clean and optimized code<br>
+        🧠 Thinks in terms of architecture, performance & user experience<br>
+        🛠️ Enjoys converting ideas into polished products<br>
+        🌱 Currently working on VentureBoard & Electricity Feedback System<br>
+        🤝 Believes in building in public and sharing knowledge<br>
+        🎯 Driven, consistent, and focused on continuous improvement<br>
       </p>
     </td>
     <td width="60%" height="auto" align="center">
