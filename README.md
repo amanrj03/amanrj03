@@ -10,7 +10,7 @@
         👯 I’m looking to collaborate on ...
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="60%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="welcome to my github profile" width="100%">
     </td>
   </tr>
