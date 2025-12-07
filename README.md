@@ -104,24 +104,6 @@ class About extends Me {
           <img src="https://img.shields.io/badge/View_Project-24292e?style=for-the-badge&logo=github&logoColor=white" />
         </a>
     </td>
-
-    <td width="50%" align="center" valign="top">
-      <h3>📺 Online Video Directory</h3>
-        <samp>
-        A curated platform for entrepreneurs to discover, learn, and grow.
-        <br><br>
-        <b>⭐ Features:</b> Video discovery, Categorized learning, Fast UI.
-        </samp>
-        <br><br>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=postgresql&logoColor=white" />
-        <br><br>
-        <a href="LINK_TO_REPO_HERE">
-          <img src="https://img.shields.io/badge/View_Project-24292e?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-    </td>
   </tr>
 </table>
 
