@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="40%">
+    <td width="50%">
       <h1>🐐 Aman Ranjan</h1>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6000&pause=1000&color=2487F7&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
@@ -16,7 +16,7 @@
         🎯 Driven, consistent, and focused on continuous improvement<br>
       </p>
     </td>
-    <td width="60%" height="auto" align="center">
+    <td width="50%" height="auto" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="welcome to my github profile" width="100%">
     </td>
   </tr>
