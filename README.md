@@ -2,6 +2,7 @@
   <tr>
     <td width="40%">
       <h1>🐐 Aman Ranjan</h1>
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=6000&pause=1000&color=2487F7&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
       <p>
         Hi there! I am a backend developer passionate about...<br>
         <br>
