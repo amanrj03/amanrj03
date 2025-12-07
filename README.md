@@ -96,8 +96,8 @@ class About extends Me {
 
 <div align="center">
  <h3>
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" height="32" style="vertical-align: middle;" />
-  Connect with me
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" height="28" style="vertical-align: bottom;" />
+  &nbsp;Connect with me
 </h3>
   
   <a href="https://www.linkedin.com/in/amanranjan03/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
