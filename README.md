@@ -20,12 +20,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ybo5aumpn7gvgyftq3w2mjjfzy">
-    <img src="https://novatorem-pink-zeta.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
-
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
