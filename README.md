@@ -64,7 +64,6 @@
   <img alt="Turborepo" src="https://img.shields.io/badge/-Turborepo-EF5350?style=flat-square&logo=turborepo&logoColor=white" />
 </p>
 ```dart
-
 // tools_I_use organized
 
 class About extends Me {
@@ -77,5 +76,4 @@ class About extends Me {
     "Tools" : { "Git", "VS Code", "Visual Studio", "Postman", "Turborepo" }
   };
 }
-
 ```
