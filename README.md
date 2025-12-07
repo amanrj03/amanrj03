@@ -2,7 +2,7 @@
   <tr>
     <td width="50%">
      <h1>
-  <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="30" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/amanrj03/amanrj03/main/hyperkitty.gif" width="30" />
   <samp> Aman Ranjan</samp>
 </h1>
       <a href="https://git.io/typing-svg">
