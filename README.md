@@ -63,3 +63,19 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Turborepo" src="https://img.shields.io/badge/-Turborepo-EF5350?style=flat-square&logo=turborepo&logoColor=white" />
 </p>
+```dart
+
+// tools_I_use organized
+
+class About extends Me {
+  const myTools = {
+    "Languages" : { "Java", "Python", "C++", "JavaScript", "TypeScript", "SQL" },
+    "Frontend" : { "React", "Next.js", "Redux", "Tailwind CSS", "HTML5", "CSS3" },
+    "Backend" : { "Node.js", "Express.js", "WebSockets", "REST APIs", "JWT" },
+    "Database" : { "MongoDB", "PostgreSQL", "Redis", "Prisma ORM" },
+    "DevOps" : { "Docker", "Kubernetes", "GitHub Actions", "Linux", "Vercel" },
+    "Tools" : { "Git", "VS Code", "Visual Studio", "Postman", "Turborepo" }
+  };
+}
+
+```
