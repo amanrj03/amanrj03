@@ -81,10 +81,50 @@ class About extends Me {
 }
 ```
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amanrj03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=amanrj03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<h3 align="center">
+  <samp>🏗️ Highlighted Projects</samp>
+</h3>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>💬 Sunny Chat App</h3>
+        <samp>
+        A real-time messaging platform built for seamless communication.
+        <br><br>
+        <b>⭐ Features:</b> Live messaging, typing indicators, JWT auth.
+        </samp>
+        <br><br>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json%20web%20tokens" />
+        <br><br>
+        <a href="LINK_TO_REPO_HERE">
+          <img src="https://img.shields.io/badge/View_Project-24292e?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+    </td>
+
+    <td width="50%" align="center" valign="top">
+      <h3>📺 Online Video Directory</h3>
+        <samp>
+        A curated platform for entrepreneurs to discover, learn, and grow.
+        <br><br>
+        <b>⭐ Features:</b> Video discovery, Categorized learning, Fast UI.
+        </samp>
+        <br><br>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=postgresql&logoColor=white" />
+        <br><br>
+        <a href="LINK_TO_REPO_HERE">
+          <img src="https://img.shields.io/badge/View_Project-24292e?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <h3>🤝 Connect with me</h3>
@@ -95,4 +135,9 @@ class About extends Me {
   <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"/></a>
   <a href="https://discord.com/users/YOUR_USER_ID"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
 
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amanrj03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=amanrj03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
