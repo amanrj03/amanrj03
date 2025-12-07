@@ -81,6 +81,8 @@ class About extends Me {
 }
 ```
 
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=amanrj03&show_icons=true&theme=react" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrj03&theme=react" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrj03&layout=compact&theme=react" /> </div>
+
 <div align="center">
   <h3>🤝 Connect with me</h3>
   
