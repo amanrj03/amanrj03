@@ -20,10 +20,10 @@
   </tr>
 </table>
 
-<h2 >
+<h3>
     <samp>Things I code with</samp>
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="40" width="40" align="middle" alt="coding gif" />
-</h2>
+</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
