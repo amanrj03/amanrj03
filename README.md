@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ybo5aumpn7gvgyftq3w2mjjfzy?si=b7362dba2f2945cd">
-    <img src="https://novatorem-yourname.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+    <img src="https://novatorem-amanranjan.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
   </a>
 </div>
 
