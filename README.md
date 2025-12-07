@@ -81,31 +81,14 @@ class About extends Me {
 }
 ```
 
-<h3 align="center">
-  <samp>🏗️ Highlighted Projects</samp>
-</h3>
+### <samp>🏗️ Highlighted Projects</samp>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>💬 Sunny Chat App</h3>
-        <samp>
-        A real-time messaging platform built for seamless communication.
-        <br><br>
-        <b>⭐ Features:</b> Live messaging, typing indicators, JWT auth.
-        </samp>
-        <br><br>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json%20web%20tokens" />
-        <br><br>
-        <a href="LINK_TO_REPO_HERE">
-          <img src="https://img.shields.io/badge/View_Project-24292e?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-    </td>
-  </tr>
-</table>
+| 💬 Sunny Chat App | 📺 Online Video Directory |
+| :--- | :--- |
+| **Description:** <br> A real-time messaging platform built with WebSockets, Node.js, and React. | **Description:** <br> A curated platform where entrepreneurs discover business videos to learn and grow. |
+| **⭐ Features:** <br> Live messaging, typing indicators, JWT auth. | **⭐ Features:** <br> Video discovery, Categorized learning, Fast UI. |
+| **Stack:** <br> ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | **Stack:** <br> ![Next](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| [View Project ↗](YOUR_LINK_HERE) | [View Project ↗](YOUR_LINK_HERE) |
 
 
 <div align="center">
