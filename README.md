@@ -98,7 +98,7 @@ class About extends Me {
   <a href="https://www.instagram.com/iaman.03/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
   <a href="https://x.com/amanrj03"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"/></a>
   <a href="[https://leetcode.com/YOUR_USERNAME](https://leetcode.com/amanrj03/)"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"/></a>
-  <a href="https://discord.com/users/YOUR_USER_ID"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
+  
 
 </div>
 
