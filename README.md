@@ -21,7 +21,7 @@
 </table>
 
 <h3>
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="40" width="40" align="middle" alt="coding gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="30" width="30" align="middle" alt="coding gif" />
   Things I code with
 </h3>
 <p>
