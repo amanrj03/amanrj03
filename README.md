@@ -81,14 +81,47 @@ class About extends Me {
 }
 ```
 
-### <samp>🏗️ Highlighted Projects</samp>
+<h3 align="center">
+  <samp>🏗️ Highlighted Projects</samp>
+</h3>
 
-| 💬 Sunny Chat App | 📺 Online Video Directory |
-| :--- | :--- |
-| **Description:** <br> A real-time messaging platform built with WebSockets, Node.js, and React. | **Description:** <br> A curated platform where entrepreneurs discover business videos to learn and grow. |
-| **⭐ Features:** <br> Live messaging, typing indicators, JWT auth. | **⭐ Features:** <br> Video discovery, Categorized learning, Fast UI. |
-| **Stack:** <br> ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | **Stack:** <br> ![Next](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| [View Project ↗](YOUR_LINK_HERE) | [View Project ↗](YOUR_LINK_HERE) |
+<br>
+
+<h3>🔹 💬 Sunny Chat App</h3>
+<p>
+  <samp>
+    A real-time messaging platform built for seamless communication using WebSockets.
+    <br>
+    <b>⭐ Features:</b> Live messaging, typing indicators, JWT auth.
+  </samp>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json%20web%20tokens" />
+</p>
+<a href="LINK_TO_REPO">View Project ↗</a>
+
+<br><br>
+
+<h3>🔹 📺 Online Video Directory</h3>
+<p>
+  <samp>
+    A platform where entrepreneurs discover curated business videos to learn and grow.
+    <br>
+    <b>⭐ Features:</b> Video discovery, Categorized learning, Fast UI.
+  </samp>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+<a href="LINK_TO_REPO">View Project ↗</a>
+
+<hr>
 
 
 <div align="center">
