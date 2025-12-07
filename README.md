@@ -8,9 +8,14 @@
       <p>
         Hi there! I am a backend developer passionate about...<br>
         <br>
-        🔭 I’m currently working on ...<br>
-        🌱 I’m currently learning ...<br>
-        👯 I’m looking to collaborate on ...
+        🚀 Passionate about building real-world, scalable applications
+        📚 Always learning system design, backend scaling & AI integrations
+        🔍 Detail-oriented developer who loves clean and optimized code
+        🧠 Thinks in terms of architecture, performance & user experience
+        🛠️ Enjoys converting ideas into polished products
+        🌱 Currently working on VentureBoard & Electricity Feedback System
+        🤝 Believes in building in public and sharing knowledge
+        🎯 Driven, consistent, and focused on continuous improvement
       </p>
     </td>
     <td width="60%" height="auto" align="center">
