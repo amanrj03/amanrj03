@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-<h3 align="center">
+<h3>
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="40" alt="coding gif" style="vertical-align: middle;" />
   <span style="vertical-align: middle;"> Things I code with</span>
 </h3>
