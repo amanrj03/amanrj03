@@ -21,7 +21,7 @@
 </table>
 
 <div align="center">
-  <span style="font-size: 25px; font-weight: bold;">
+  <span style="font-size: 50px; font-weight: bold;">
     <samp>Things I code with</samp>
   </span>
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="40" width="40" align="middle" alt="coding gif" />
