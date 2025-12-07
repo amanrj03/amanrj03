@@ -8,8 +8,7 @@
       <p>
         🚀 Passionate about building real-world, scalable applications<br>
         📚 Always learning system design & backend scaling <br>
-        🔍 Detail-oriented developer who loves clean and optimized code<br>
-        🧠 Thinks in terms of architecture, performance & user experience<br>
+        🔍 Developer who loves clean and optimized code<br>
         🛠️ Enjoys converting ideas into polished products<br>
         🤝 Believes in building in public and sharing knowledge<br>
         🎯 Driven, consistent, and focused on continuous improvement<br>
