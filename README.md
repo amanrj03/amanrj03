@@ -94,10 +94,10 @@ class About extends Me {
 <div align="center">
   <h3>🤝 Connect with me</h3>
   
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
-  <a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"/></a>
-  <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"/></a>
+  <a href="https://www.linkedin.com/in/amanranjan03/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="https://www.instagram.com/iaman.03/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
+  <a href="https://x.com/amanrj03"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"/></a>
+  <a href="[https://leetcode.com/YOUR_USERNAME](https://leetcode.com/amanrj03/)"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"/></a>
   <a href="https://discord.com/users/YOUR_USER_ID"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
 
 </div>
