@@ -3,7 +3,7 @@
     <td width="40%">
       <h1>🐐 Aman Ranjan</h1>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=6000&pause=1000&color=2487F7&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6000&pause=1000&color=2487F7&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
       </a>
       <p>
         Hi there! I am a backend developer passionate about...<br>
