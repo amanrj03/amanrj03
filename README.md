@@ -82,11 +82,8 @@ class About extends Me {
 ```
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.deno.dev/api?username=amanrj03&show_icons=true&theme=react" />
-  
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrj03&theme=react" />
-  
-  <img height="160" src="https://github-readme-stats.deno.dev/api/top-langs/?username=amanrj03&layout=compact&theme=react" />
+  <img src="https://streak-stats.demolab.com?user=amanrj03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=amanrj03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <div align="center">
