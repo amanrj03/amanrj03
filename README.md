@@ -20,10 +20,12 @@
   </tr>
 </table>
 
-<h2>
-  <samp>Things I code with</samp>
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="35" width="35" align="middle" alt="coding gif" />
-</h2>
+<div align="center">
+  <span style="font-size: 25px; font-weight: bold;">
+    <samp>Things I code with</samp>
+  </span>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="40" width="40" align="middle" alt="coding gif" />
+</div>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -81,22 +83,6 @@ class About extends Me {
 }
 ```
 
-<div align="center" >
-<a  href="https://github.com/amanrj03">
-
-<img src="https://raw.githubusercontent.com/amanrj03/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/amanrj03/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/amanrj03/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/amanrj03/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-</div>
 
 <div align="center">
   <h3>🤝 Connect with me</h3>
