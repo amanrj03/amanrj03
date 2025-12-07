@@ -85,10 +85,10 @@ class About extends Me {
 
 | 💬 Sunny Chat App | 📺 Online Video Directory |
 | :--- | :--- |
-| **Description:** <br> A real-time messaging platform built with WebSockets, Node.js, and React. | **Description:** <br> A curated platform where entrepreneurs discover business videos to learn and grow. |
-| **⭐ Features:** <br> Live messaging, typing indicators, JWT auth. | **⭐ Features:** <br> Video discovery, Categorized learning, Fast UI. |
-| **Stack:** <br> ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | **Stack:** <br> ![Next](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| [View Project ↗](YOUR_LINK_HERE) | [View Project ↗](YOUR_LINK_HERE) |
+| **Description:** <br> A real-time, end-to-end encrypted messaging platform built with WebSockets, Node.js, and React. | **Description:** <br> A curated platform where entrepreneurs discover business videos to learn and grow. |
+| **⭐ Features:** <br> E2EE, Live messaging, JWT auth. | **⭐ Features:** <br> Video discovery, Categorized learning, Fast UI. |
+| **Stack:** <br> ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | **Stack:** <br> ![Next](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| [View Project ↗](https://github.com/amanrj03/Sunny-Chat) | [View Project ↗](YOUR_LINK_HERE) |
 
 
 <div align="center">
